@@ -1,3 +1,5 @@
 rootProject.name = 'ddd-hex-package'
 include 'domain'
 include 'application'
+include 'presentation'
+
